@@ -1,0 +1,70 @@
+{
+  "source": "Derived from Instrudio violin physical model",
+  "sample_rate": 48000,
+  "range": [
+    "G3",
+    "E6"
+  ],
+  "presets": {
+    "solo_cantabile": {
+      "bowPressure": 0.6,
+      "bowSpeed": 0.55,
+      "brightness": 0.75,
+      "masterVol": 0.72,
+      "vibratoRate": 5.5,
+      "vibratoDepth": 0.32,
+      "dur": 3.0,
+      "attack": 0.07
+    },
+    "warm_ensemble": {
+      "bowPressure": 0.5,
+      "bowSpeed": 0.45,
+      "brightness": 0.55,
+      "masterVol": 0.68,
+      "vibratoRate": 5.0,
+      "vibratoDepth": 0.4,
+      "dur": 3.4,
+      "attack": 0.09
+    },
+    "baroque_period": {
+      "bowPressure": 0.45,
+      "bowSpeed": 0.6,
+      "brightness": 0.6,
+      "masterVol": 0.7,
+      "vibratoRate": 4.5,
+      "vibratoDepth": 0.18,
+      "dur": 2.8,
+      "attack": 0.05
+    },
+    "sul_ponticello": {
+      "bowPressure": 0.75,
+      "bowSpeed": 0.4,
+      "brightness": 0.95,
+      "masterVol": 0.65,
+      "vibratoRate": 6.0,
+      "vibratoDepth": 0.22,
+      "dur": 2.8,
+      "attack": 0.04
+    },
+    "pizz_bright": {
+      "bowPressure": 0.5,
+      "bowSpeed": 0.5,
+      "brightness": 0.85,
+      "masterVol": 0.78,
+      "vibratoRate": 5.5,
+      "vibratoDepth": 0.0,
+      "dur": 1.3,
+      "attack": 0.01
+    },
+    "cinematic_legato": {
+      "bowPressure": 0.7,
+      "bowSpeed": 0.62,
+      "brightness": 0.68,
+      "masterVol": 0.75,
+      "vibratoRate": 5.8,
+      "vibratoDepth": 0.45,
+      "dur": 4.0,
+      "attack": 0.12
+    }
+  }
+}
