@@ -1,4 +1,4 @@
-# Free Violin Synth Samples
+# 🎻 Free AAA Violin Synth Samples
 
 Free Violin Synth Samples is a GitHub-ready sample pack built from a physically modeled violin instrument rendered out of the uploaded Instrudio source package.
 
