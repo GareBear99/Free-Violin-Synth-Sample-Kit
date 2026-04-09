@@ -1,6 +1,8 @@
 # AAA Violin Kit (derived from Instrudio violin)
 
-This kit was rendered from the physical-model violin instrument found in the uploaded Instrudio package.
+This kit was rendered from the physical-model violin instrument found in the Instrudio package.
+
+- https://github.com/GareBear99/Instrudio
 
 ## What's inside
 - 6 violin preset folders
