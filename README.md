@@ -1,4 +1,4 @@
-# AAA Violin Kit (derived from Instrudio violin)
+# AAA 🎻 Violin Kit (derived from Instrudio violin)
 
 This kit was rendered from the physical-model violin instrument found in the Instrudio package.
 
