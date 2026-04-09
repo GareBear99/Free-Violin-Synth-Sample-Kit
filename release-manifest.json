@@ -1,0 +1,12 @@
+{
+  "project": "Free Violin Synth Samples",
+  "slug": "free-violin-synth-samples",
+  "version": "1.0.0",
+  "created": "2026-04-09",
+  "source": "Rendered from uploaded Instrudio violin model/package",
+  "audio_path": "assets/violin_aaa_kit",
+  "notes": [
+    "Rendered from model, not extracted from a raw recorded violin sample library.",
+    "Repository prepared for GitHub distribution."
+  ]
+}
