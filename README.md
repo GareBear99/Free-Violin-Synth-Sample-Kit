@@ -60,18 +60,32 @@ It is designed as a clean, usable **free violin synth sample repo** for producer
 - Bit depth: 16-bit
 - Channels: Stereo
 - Note span: G3 to E6
-- Total rendered WAV files: 204
+- One-shots: 204 WAVs (6 presets × 34 notes)
+- Preview renders: 4 representative preset audition WAVs
+- Metadata: `metadata/sample_index.csv`, `metadata/instrument_info.json`
 
 ## Folder layout
 
 ```text
-assets/
-  violin_aaa_kit/
-    one_shots/
-    previews/
-    metadata/
+one_shots/
+  solo_cantabile/
+  warm_ensemble/
+  baroque_period/
+  sul_ponticello/
+  pizz_bright/
+  cinematic_legato/
+previews/
+  solo_cantabile_preview.wav
+  pizz_bright_preview.wav
+  sul_ponticello_preview.wav
+  cinematic_legato_preview.wav
+metadata/
+  sample_index.csv
+  instrument_info.json
 docs/
-.github/
+  PACK_SPEC.md
+  REPOSITORY_OVERVIEW.md
+  RELEASE_CHECKLIST.md
 ```
 
 ## Use cases
@@ -93,9 +107,9 @@ This package is prepared as a distribution-ready repository. Before public relea
 ## Quick start
 
 1. Download the repository or latest release ZIP.
-2. Open `assets/violin_aaa_kit/one_shots/`.
-3. Drag the preset folders into your sampler or DAW.
-4. Use the preview WAVs to audition the character of each preset.
+2. Open `one_shots/` at the repository root.
+3. Drag any of the six preset folders into your sampler or DAW.
+4. Use the WAVs in `previews/` to audition the character of each preset before loading the full set.
 
 ## Release contents
 
