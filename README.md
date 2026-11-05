@@ -10,7 +10,7 @@ This pack sells for **$1 USD** on Bandcamp, Looperman, Sample Focus, Splice, and
 
 Want to support the work directly? Any of these are appreciated:
 
-- [🛒 itch.io — Violin Synth Sample Kit ($2.50 CAD)](https://garebearproductionz.itch.io/) — the paid-platform version
+- [🛒 itch.io — Violin Synth Sample Kit ($2.50 CAD)](https://garebearproductionz.itch.io/violin-synth-sample-kit) — the paid-platform version
 - [GitHub Sponsors](https://github.com/sponsors/GareBear99)
 - [Buy Me a Coffee](https://buymeacoffee.com/garebear99)
 - [Ko-fi](https://ko-fi.com/luciferai)
