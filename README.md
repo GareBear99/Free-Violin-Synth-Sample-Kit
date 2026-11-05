@@ -10,6 +10,7 @@ This pack sells for **$1 USD** on Bandcamp, Looperman, Sample Focus, Splice, and
 
 Want to support the work directly? Any of these are appreciated:
 
+- [🛒 itch.io — Violin Synth Sample Kit ($2.50 CAD)](https://garebearproductionz.itch.io/) — the paid-platform version
 - [GitHub Sponsors](https://github.com/sponsors/GareBear99)
 - [Buy Me a Coffee](https://buymeacoffee.com/garebear99)
 - [Ko-fi](https://ko-fi.com/luciferai)
@@ -35,6 +36,8 @@ More free plugins from me: [FreeEQ8 (8-band EQ)](https://github.com/GareBear99/F
 > 🗂️ **Release Vault Repo:** [https://github.com/GareBear99/TizWildin-Release-Vault](https://github.com/GareBear99/TizWildin-Release-Vault)
 
 # 🎻 Free AAA Violin Synth Samples
+
+![Violin Synth Sample Kit cover](cover.png)
 
 Free Violin Synth Sample Kit is a GitHub-ready sample pack built from a physically modeled violin instrument rendered out of the Instrudio source package.
 
