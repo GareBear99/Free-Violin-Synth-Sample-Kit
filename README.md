@@ -39,6 +39,8 @@ More free plugins from me: [FreeEQ8 (8-band EQ)](https://github.com/GareBear99/F
 
 ![Violin Synth Sample Kit cover](cover.png)
 
+🎧 **Hear it:** [Aria for Instrudio](https://soundcloud.com/tizwildin/aria_for_violin_and_piano) — a demo of Instrudio, the physical-model violin this pack was rendered from.
+
 Free Violin Synth Sample Kit is a GitHub-ready sample pack built from a physically modeled violin instrument rendered out of the Instrudio source package.
 
 It is designed as a clean, usable **free violin synth sample repo** for producers, composers, soundtrack makers, sampler builders, and open-source audio toolchains.
