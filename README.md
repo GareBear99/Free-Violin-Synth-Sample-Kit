@@ -78,6 +78,29 @@ It is designed as a clean, usable **free violin synth sample repo** for producer
 - Preview renders: 4 representative preset audition WAVs
 - Metadata: `metadata/sample_index.csv`, `metadata/instrument_info.json`
 
+## The physics behind it
+
+These are not recordings. Every note is computed from a physical model of a bowed violin string — Instrudio's Studio Violin v2.0.0: Helmholtz motion synthesis, H2 correction oscillator, inharmonicity chorus, 8-band Stradivari body resonances, sympathetic open-string resonance, and continuous pitch glide on the fingerboard. Parameters derived from peer-reviewed acoustic measurements (Schelleng 1973, Jansson 2002, Woodhouse 2004, Smith 2010).
+
+The string equation: f₁ = (1 / 2L) × √(T / μ) — frequency from string length L, tension T, and mass per unit length μ.
+
+Inharmonicity (real strings are not perfectly harmonic): fₙ = n × f₁ × √(1 + B × n²), with B per string: G 0.00035, D 0.00028, A 0.00022, E 0.00018.
+
+Open strings: G 195.998 Hz, D 293.665 Hz, A 440.000 Hz, E 659.255 Hz.
+
+The count: 204 = 6 presets × 34 notes. 34 notes = MIDI 55 (G3) to MIDI 88 (E6), every semitone, no gaps. Rendered at 48,000 Hz, 16-bit, stereo.
+
+Preset parameters (bow pressure / bow speed / brightness / vibrato rate / vibrato depth / duration / attack):
+
+| Preset | Bow pressure | Bow speed | Brightness | Vibrato rate | Vibrato depth | Duration | Attack |
+|---|---|---|---|---|---|---|---|
+| Solo Cantabile | 0.60 | 0.55 | 0.75 | 5.5 Hz | 0.32 | 3.0 s | 0.07 s |
+| Warm Ensemble | 0.50 | 0.45 | 0.55 | 5.0 Hz | 0.40 | 3.4 s | 0.09 s |
+| Baroque Period | 0.45 | 0.60 | 0.60 | 4.5 Hz | 0.18 | 2.8 s | 0.05 s |
+| Sul Ponticello | 0.75 | 0.40 | 0.95 | 6.0 Hz | 0.22 | 2.8 s | 0.04 s |
+| Pizz Bright | 0.50 | 0.50 | 0.85 | 5.5 Hz | 0.00 | 1.3 s | 0.01 s |
+| Cinematic Legato | 0.70 | 0.62 | 0.68 | 5.8 Hz | 0.45 | 4.0 s | 0.12 s |
+
 ## Folder layout
 
 ```text
